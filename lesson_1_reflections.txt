@@ -1,0 +1,11 @@
+Learned to compare 2 files using diff -u
+Learned about launching atom from terminal
+
+When you make a commit - you save every file\
+ in your repository
+
+git log - see all the commits
+
+git diff - show differences between 2 commits
+
+git clone - download an entire repository
