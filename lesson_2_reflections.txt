@@ -1,0 +1,4 @@
+git init - start a new repository
+ files in there are not tracked by default
+git status - view the status of the files in the \
+repository
